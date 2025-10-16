@@ -1,6 +1,6 @@
 # Book Club Database in Microsoft Access using SQL
 
-**DBS project for an introductory database management systems course**
+**DBMS project for an introductory database management systems course**
 
 My team and I created a database using SQL queries for a fictionalized book club.
 
